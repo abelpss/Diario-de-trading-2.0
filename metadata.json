@@ -1,0 +1,5 @@
+{
+  "name": "Diário de Trading",
+  "description": "Um aplicativo web para traders registrarem e analisarem suas operações diárias, com estatísticas e resumos visuais.",
+  "requestFramePermissions": []
+}
